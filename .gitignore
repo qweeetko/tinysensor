@@ -1,0 +1,9 @@
+*.elf
+*.dump
+*.hex
+*.bin
+generator/build
+uploader/build
+speck/build
+tmp
+attiny.smazto
